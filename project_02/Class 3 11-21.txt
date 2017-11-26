@@ -1,0 +1,22 @@
+Commit hash
+
+commit identified by hash that is shown in git log
+
+git remote -v
+
+git remote add <name> <url>
+
+git remote rm <name> - deletes the remote reference (not the remote itself)
+
+git pull actually carries out two separate operations: fetch and merge
+
+Remote repos
+git fetch
+local repos
+git merge
+working copy
+
+git reset <commit-hash> sets the current status of your working branch to be the given commit, with all changes past the commit marked as unstaged.  This can "back up" multiple commits. --hard deletes all unstaged changes
+
+git stash
+git stash -pop
