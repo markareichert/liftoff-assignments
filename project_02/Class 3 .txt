@@ -1,9 +1,0 @@
-Commit hash
-
-commit identified by hash that is shown in git log
-
-git remote -v
-
-git remote add <name> <url>
-
-git remote rm <name> - deletes the remote reference (not the remote itself)
